@@ -92,8 +92,8 @@ The following is the commands used to set the requested permissions above.
 2. Run an audit: 
     - **Command**: `sudo lynis audit system` to run an audit
 
-3. Lynis output on what more could be done to harden the system.
+3. Lynis output on what more could be done to harden the system:
 
-
+![](https://github.com/ABliss523/Linux-Systems-Administration/blob/main/Lynis%20Output.PNG)
 
 ```
